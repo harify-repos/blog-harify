@@ -1,4 +1,4 @@
-baseURL = 'https://harify-com.github.io/blog-harify/'
+baseURL = 'https://blog.harify.com/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
