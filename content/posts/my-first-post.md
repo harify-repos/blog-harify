@@ -5,6 +5,6 @@ draft: false
 ---
 ## Introduction
 
-This is **bold** text, and this is *emphasized* text.
+This is **bold** text, and this is *emphasized* text. added a new line.
 
 Visit the [Hugo](https://gohugo.io) website!
