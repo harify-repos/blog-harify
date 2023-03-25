@@ -1,5 +1,8 @@
 baseURL = 'https://blog.harify.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'mini'
+title = 'Harify Palm'
+theme = 'mini-custom'
 enableRobotsTXT = true
+
+[params]
+description = "A blog on how to do Software Engineering the alien way!"
